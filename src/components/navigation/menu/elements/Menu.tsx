@@ -52,7 +52,7 @@ const Menu = () => {
 
       <MenuItem
         title="Interview Ready"
-        href="http://www.abhishekchaturvedi.site/materials"
+        href="https://www.systemdesigninterview.online/"
       />
 
       <ContactBtn title="Contact Me" />
