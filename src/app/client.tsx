@@ -19,6 +19,7 @@ export function Client() {
       <Navbar />
       <Hero />
       <About />
+      {/* <InterviewReadyDocument /> */}
       <Services />
       <Footer />
     </GlobalStateProvider>

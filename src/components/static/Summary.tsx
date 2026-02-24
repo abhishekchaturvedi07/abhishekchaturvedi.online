@@ -8,8 +8,8 @@ const Summary = () => {
         itemType="#"
       >
         <p className="mb-5">
-          I&apos;m a Passionate Full stack Architect with a remarkable journey
-          spanning around 15 years of dedicated experience in crafting
+          I&apos;m a Passionate Full stack AI Architect with a remarkable
+          journey spanning around 16.5 years of dedicated experience in crafting
           exceptional user interfaces that blend aesthetics, functionality, and
           user-centric design.🎓
           <br /> My main focus these days is to educate people on building high

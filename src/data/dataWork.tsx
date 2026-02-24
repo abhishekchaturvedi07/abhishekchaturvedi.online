@@ -1,10 +1,11 @@
 const data = [
   {
-    title: "Senior Technical Architect",
-    company: "Credera",
+    title: "Senior Technical Architect ( Fullstack AI Architect )",
+    company: "Credera, Omnicom Group",
     tasks:
       "Client facing profile having both business & technical skills, Leadership, Team Building & keep up to date in web, mobile and cloud competencies & latest technology trends.",
     tags: [
+      "AI SaaS Product",
       "Web Components",
       "Micro Frontend",
       "Mono Repository",
@@ -18,7 +19,13 @@ const data = [
       "Atomic Design Pattern",
       "Typescript",
       "REST",
+      "Zustand",
+      "React Query",
+      "OAuth 2.0",
+      "JWT",
+      "OpenID Connect",
       "GraphQL",
+      "tRPC",
       "gRPC",
       "AWS",
       "GCP",
